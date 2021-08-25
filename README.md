@@ -42,7 +42,7 @@ If the user presses the play button, the game is displayed.
 
 **<h1>Flowchart of the Program</h1>**  
 
-![Flowchart](/images/Flowchart.png)  
+![Flowchart](/images/Flowchart.jpg)  
 
 **<h1>Conclusion and Remarks</h1>**  
 

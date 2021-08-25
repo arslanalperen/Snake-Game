@@ -15,3 +15,65 @@ In order to solve the problem, a class must first be created. This class contain
 **<h1>User's Guide</h1>**  
 
 When the user opens the program, the login animation appears first.  
+
+![1](/images/1.png)  
+![2](/images/2.png)  
+
+The user is then prompted to enter their name.  
+
+![3](/images/3.png)  
+
+After that, the main menu appears on the screen.  
+
+![4](/images/4.png)  
+
+If the user presses settings, the settings menu appears.  
+
+![5](/images/5.png)  
+
+If the user presses the play button, the game is displayed.  
+
+![6](/images/6.png)  
+
+**<h1>Result of the Solution</h1>**  
+
+![7](/images/7.png)  
+![8](/images/8.png)  
+
+**<h1>Flowchart of the Program</h1>**  
+
+![Flowchart](/images/Flowchart.png)  
+
+**<h1>Conclusion and Remarks</h1>**  
+
+In this project, first of all, we gained important experience in the distribution of tasks and the construction phase of large projects. We also had an idea about developing algorithms and collecting the written codes under a single project file in projects where task distribution was made. As for the difficulties we experience; We were unable to add the scoreboard, which we aimed at at the beginning of the project, due to the mistakes we experienced and the lack of time. Our code is quite user friendly. How to use the program can be understood very simply and properly, as we have explained in the user guide. The program is a program that appeals to the general audience of players that can be enjoyed and played comfortably by large and small audiences of all ages. In this project, we learned how to use the enum structure, the functions of the Windows.h library, and especially the functions related to the class structure, and the general algorithm for animation in console applications.  
+
+**<h1>References</h1>**  
+
+•    Kodlakafa.com  
+•    Alldatasheet.com  
+•    Stackoverflow.com  
+•    Algoritmaornekleri.com  
+•    Arduinolibraries.com  
+•    Github.com  
+•    Sanatsalbilgi.com  
+•    Theengineeringprojects.com  
+•    Rapidtables.com  
+•    Koddefteri.com  
+•    Erhanulman.com  
+•    Forum.donanimhaber.com  
+•    Cagataycebi.com  
+•    Forum.csharpnedir.com  
+•    En.wikipedi0.org  
+•    Hayaletveyap.com  
+•    Grafiboyz.blogcu.com  
+•    Aliozcan.org  
+•    Gelecegiyazanlar.turkcell.com.tr  
+•    Iucoders.com  
+•    Sanalkurs.net  
+•    Buraksenyurt.com  
+•    Microcore.com  
+•    Link24in.wordpress.com  
+•    Soyunmezoglubaris.blogspot.com  
+•    Motorobit.com  
+•    Kodumundunyasi.net  
